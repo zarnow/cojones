@@ -16,6 +16,7 @@ pnpm dev
 
 ## notes: 
 ``` bash
+ssh server322290@server322290.nazwa.pl
 sui move build --skip-fetch-latest-git-deps
 sui client publish --skip-fetch-latest-git-deps
 http://localhost:5173/#0x91efc86fda2d7f297d0e48d5de52652c283ae006349863eed051f62b989fff0b
